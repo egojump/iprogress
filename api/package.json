@@ -14,7 +14,9 @@
     "graphql": "^0.13.1",
     "graphql-tools": "^2.21.0",
     "mongoose": "^5.0.8",
-    "mongoose-unique-validator": "^2.0.0"
+    "mongoose-timestamp": "^0.6.0",
+    "mongoose-unique-validator": "^2.0.0",
+    "uuid": "^3.2.1"
   },
   "devDependencies": {
     "nodemon": "^1.15.1"
