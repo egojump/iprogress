@@ -3,12 +3,10 @@
 
 ## Development
 
+### API server
+
 ```bash
+cd api
 yarn
-
-# Start dev server
 yarn dev
-
-# Start production server
-yarn start
 ```
